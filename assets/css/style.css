@@ -1,0 +1,11 @@
+.card-title {
+    font-size: 75px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+.controll {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    background-color: #575f67;
+}
